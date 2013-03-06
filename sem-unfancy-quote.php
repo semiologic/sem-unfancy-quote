@@ -3,8 +3,8 @@
 Plugin Name: Unfancy Quote
 Plugin URI: http://www.semiologic.com/software/unfancy-quote/
 Description: Removes WordPress fancy quotes, which is very useful if you post code snippets to your site.
-Version: 3.0
-Author: Denis de Bernardy
+Version: 3.0.1
+Author: Denis de Bernardy, Mike Koepke
 Author URI: http://www.getsemiologic.com
 Text Domain: sem-unfancy-quote
 Domain Path: /lang
