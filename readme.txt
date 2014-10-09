@@ -32,6 +32,10 @@ If you require more dedicated assistance, consider using [Semiologic Pro](http:/
 
 == Change Log ==
 
+= 3.2.1 =
+
+- Retirement party for this plugin!
+
 = 3.2 =
 
 - Code refactoring
