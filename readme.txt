@@ -8,14 +8,14 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The unfancy quote plugin for WordPress lets you override WordPress' quote fancification.
+*Retired*: The unfancy quote plugin for WordPress lets you override WordPress' quote fancification.
 
 
 == Description ==
 
-The unfancy quote plugin for WordPress lets you override WordPress' quote fancification. Curly quotes in the wrong direction and broken code because of curly quotes will be a thing of the past.
+This plugin has outlived its usefulness and should have been retired long ago.   No further updates will be occurring on it.
 
-Note: This functionality has been mostly fixed since WordPress 2.7.
+
 
 = Help Me! =
 
